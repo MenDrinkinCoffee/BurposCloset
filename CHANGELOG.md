@@ -1,3 +1,5 @@
+### 0.0.12
+- Updated README
 ### 0.0.11
 - Suits added:
   - Robocop
