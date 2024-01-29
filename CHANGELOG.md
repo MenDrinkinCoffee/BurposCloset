@@ -1,3 +1,9 @@
+### 0.0.11
+- Suits added:
+  - Robocop
+### 0.0.10
+- Suits cleaned up:
+  - Beavis
 ### 0.0.9
 - Suits cleaned up:
   - Buff Minion
