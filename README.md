@@ -1,5 +1,5 @@
 # Burpo's Closet
-This is what the man wears.
+This is what the man wears. [www.twitch.tv/burpo](https://www.twitch.tv/burpo)
 
 ## Unique suits
 - Beavis
