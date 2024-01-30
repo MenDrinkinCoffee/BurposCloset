@@ -1,3 +1,7 @@
+### 0.0.13
+- Suits cleaned up:
+  - Jeff Jarrett
+  - Eternal Gamer 81
 ### 0.0.12
 - Updated README
 ### 0.0.11
