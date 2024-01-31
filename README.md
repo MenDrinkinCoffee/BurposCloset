@@ -9,6 +9,7 @@ This is what the man wears. [www.twitch.tv/burpo](https://www.twitch.tv/burpo)
 - Eternal Gamer 81
 - Jeff Jarrett WCW plush wrestler thing
 - Kevin Smith
+- Metal Jesus from Metal Jesus Rocks
 - Pickle Rick
 - Quest64 Protagonist
 - Robocop

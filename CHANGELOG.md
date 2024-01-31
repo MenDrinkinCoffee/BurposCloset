@@ -1,3 +1,8 @@
+### 0.0.15
+- Suits added:
+  - Metal Jesus Rocks
+### 0.0.14
+- Added link to burpo's stream.
 ### 0.0.13
 - Suits cleaned up:
   - Jeff Jarrett
