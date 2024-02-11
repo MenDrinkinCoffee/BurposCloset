@@ -1,5 +1,8 @@
 ### 0.0.16
 - Suits added:
+  - The Grimace
+### 0.0.16
+- Suits added:
   - The Mask
 ### 0.0.15
 - Suits added:
