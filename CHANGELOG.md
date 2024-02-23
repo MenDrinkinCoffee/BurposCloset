@@ -1,3 +1,9 @@
+### 1.0.1
+- Added dumb songs
+### 1.0.0
+- Suits added:
+  - Jar jar banks aka jar jar binks
+- 1.0.0 for no real reason, might not add much after this
 ### 0.0.16
 - Suits added:
   - The Grimace

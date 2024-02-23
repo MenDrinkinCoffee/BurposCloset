@@ -8,6 +8,7 @@ This is what the man wears. [www.twitch.tv/burpo](https://www.twitch.tv/burpo)
 - Daniel Songer
 - Eternal Gamer 81
 - The Grimace
+- Jar Jar Binks
 - Jeff Jarrett WCW plush wrestler thing
 - Kevin Smith
 - The Mask
